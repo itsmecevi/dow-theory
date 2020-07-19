@@ -89,7 +89,7 @@ Teori Dow berpendapat bahwa tren tetap ada meski terjadi "noise" di pasar. Pasar
 2. A chart pattern: pola chart tertentu pada pasar keuangan. Ada continuation dan reversal
 
 
-Continuation patterns:
+**Continuation patterns:**
 
 * Ascending Triangle
 * Descending Triangle
@@ -101,7 +101,7 @@ Continuation patterns:
 * Wedge
 
 
-Reversal  patterns:
+**Reversal  patterns:**
 
 * Head and Shoulders
 * Inverse Head and Shoulders

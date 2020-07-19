@@ -1,6 +1,27 @@
 ## Introduction
 
-* 
+* Dow Theory diciptakan oleh Charlew Dow yang menciptakan Dow Jones Industrial Average yang menciptakan list dari 30 perusahaan di bursa saham amerika
+* Saat ini pasar keuangan valuta asing merupakan pasar keuangan yang paling populer di kalangan trader dan investor. Karena pasar forex merupakan pasar paling likuid (paling mudah dicairkan)
+* Beberapa alasan kenapa pasar forex sangat digemari adalah sebagai berikut:
+
+    * likuiditas yang tinggi
+    * instrumen trading yang banyak
+    * 24 jam buka pasar selain hari libur dan hari weekend
+* Disamping itu, pasar forex sangat tidak terduga, jadi investor dan trader harus sangat berhati-hati karena jenis pasar ini memiliki resiko yang sangat tinggi
+* Charles Dow sendiri sebenarnya tak pernah menyebut pemikirannya sebagai "Teori Dow". Namun, tiga orang lain bernama William Peter Hamilton, Robert Rhea dan E. George Schaefer menyarikan tulisan-tulisannya, lalu kemudian merumuskan enam prinsip dasar Teori Dow
+* DOw Theory terdiri dari 6 konsep utama sbb:
+
+**1-Harga dipengaruhi oleh semua faktor:** setiap informasi bisa membuat harga bergerak, misalkan pemilihan presiden di USA, atau karena adanya wabah seperti sekarang ini
+
+**2-Pasar memiliki tiga pergerakan trend:
+
+* "Main Trend", "Primary Trend", atau "Major Trend": adalah pergerakan yang bertahan antara minimum setahun hingga beberapa tahun. Sifatnya bisa bullish maupun bearish.
+
+* "Medium Trend", "Secondary Trend", atau "Intermediate Trend": bisa jadi berlangsung antara 3 minggu hingga 3 bulan dan umumnya merunut kembali dari 33% (1/3) hingga 66% (2/3) dari pergerakan harga primer atau trend utama.
+
+* "Short Trend" atau "Minor Trend": cenderung bervariasi, tetapi kurang dari 3 minggu
+
+![DT1](https://user-images.githubusercontent.com/27078712/87868720-3dbfb100-c9c3-11ea-86f9-f2402b58f70f.PNG)
 
 
 

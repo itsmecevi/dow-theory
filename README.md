@@ -11,9 +11,15 @@
 * Charles Dow sendiri sebenarnya tak pernah menyebut pemikirannya sebagai "Teori Dow". Namun, tiga orang lain bernama William Peter Hamilton, Robert Rhea dan E. George Schaefer menyarikan tulisan-tulisannya, lalu kemudian merumuskan enam prinsip dasar Teori Dow
 * DOw Theory terdiri dari 6 konsep utama sbb:
 
+
+## Price
+
 **1-Harga dipengaruhi oleh semua faktor:** setiap informasi bisa membuat harga bergerak, misalkan pemilihan presiden di USA, atau karena adanya wabah seperti sekarang ini
 
-**2-Pasar memiliki tiga pergerakan trend:
+
+## Trend
+
+**2-Pasar memiliki tiga pergerakan trend:**
 
 * "Main Trend", "Primary Trend", atau "Major Trend": adalah pergerakan yang bertahan antara minimum setahun hingga beberapa tahun. Sifatnya bisa bullish maupun bearish.
 
